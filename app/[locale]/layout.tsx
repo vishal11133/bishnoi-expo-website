@@ -16,6 +16,7 @@ export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
 }
 
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 export async function generateMetadata({ params: { locale } }: Props): Promise<Metadata> {
   return {
     title: 'Bishnoi Global Business Expo 2026',
@@ -28,7 +29,8 @@ export default async function LocaleLayout({
   children,
   params: { locale },
 }: Props) {
-  if (!routing.locales.includes(locale as any)) {
+  type Locale = (typeof routing.locales)[number];
+  if (!routing.locales.includes(locale as Locale)) {
     notFound();
   }
 
