@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "events": "Events",
+    "timeline": "Timeline",
+    "register": "Register"
+  },
+  "home": {
+    "title": "Bishnoi Global Business Expo 2026",
+    "subtitle": "Empowering the Bishnoi Community for Business Excellence",
+    "dates": "March 2026 | 3 Days of Excellence",
+    "heroDescription": "Join us for a transformative three-day expo designed to help the Bishnoi community excel in business. Showcase your products, launch new ventures, learn essential business skills, and build meaningful connections.",
+    "cta": "Register Now",
+    "learnMore": "Learn More",
+    "aboutTitle": "About the Expo",
+    "aboutDescription": "The Bishnoi Global Business Expo 2026 is a groundbreaking initiative dedicated to empowering the Bishnoi community in the business field. This expo serves as a comprehensive platform for entrepreneurs, business owners, and aspiring professionals to grow, connect, and succeed.",
+    "mission": "Our Mission",
+    "missionText": "To create a one-stop solution for the Bishnoi community to excel in business by providing platforms for product showcasing, knowledge sharing, networking, and professional development.",
+    "benefits": {
+      "title": "Benefits for the Bishnoi Community",
+      "showcase": "Showcase Products",
+      "showcaseDesc": "Display your products to a targeted audience of potential customers and partners",
+      "launch": "Launch Products",
+      "launchDesc": "Introduce new products and services to the market in a supportive environment",
+      "learn": "Learn Business Skills",
+      "learnDesc": "Gain valuable insights from industry experts and successful entrepreneurs",
+      "connect": "Build Connections",
+      "connectDesc": "Network with like-minded professionals and establish valuable business relationships"
+    },
+    "eventsTitle": "Featured Events",
+    "viewAllEvents": "View All Events"
+  },
+  "events": {
+    "title": "Expo Events",
+    "subtitle": "Discover the exciting events at Bishnoi Global Business Expo 2026",
+    "ideaPitching": {
+      "title": "Idea Pitching",
+      "description": "Present your innovative business ideas to investors and industry experts. Get valuable feedback and potential funding opportunities."
+    },
+    "awards": {
+      "title": "Awards and Recognition",
+      "description": "Celebrate outstanding achievements in business. Recognize excellence and inspire others in the Bishnoi community."
+    },
+    "cultural": {
+      "title": "Cultural Events",
+      "description": "Experience rich cultural performances that celebrate Bishnoi heritage while fostering community unity and pride."
+    },
+    "speeches": {
+      "title": "Keynote Speeches",
+      "description": "Learn from renowned business leaders and industry experts who will share their knowledge, experiences, and strategies for success."
+    },
+    "businessFair": {
+      "title": "Business Fair",
+      "description": "The core event featuring product displays, business stalls, networking opportunities, and direct business interactions."
+    }
+  },
+  "timeline": {
+    "title": "Expo Timeline",
+    "subtitle": "Plan your visit with our detailed event schedule",
+    "day1": "Day 1",
+    "day2": "Day 2",
+    "day3": "Day 3",
+    "march2026": "March 2026"
+  },
+  "register": {
+    "title": "Register for the Expo",
+    "subtitle": "Join the Bishnoi Global Business Expo 2026",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "Enter your email",
+      "phone": "Phone Number",
+      "phonePlaceholder": "Enter your phone number",
+      "organization": "Organization (Optional)",
+      "organizationPlaceholder": "Enter your organization name",
+      "submit": "Submit Registration",
+      "submitting": "Submitting...",
+      "success": "Registration Successful!",
+      "successMessage": "Thank you for registering. We'll keep you updated about the expo.",
+      "error": "Registration Failed",
+      "errorMessage": "Please try again later or contact us for assistance."
+    }
+  },
+  "footer": {
+    "description": "Empowering the Bishnoi community to excel in business through networking, learning, and growth opportunities.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact Us",
+    "follow": "Follow Us",
+    "rights": "All rights reserved."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "goBack": "Go Back"
+  }
+}
+
